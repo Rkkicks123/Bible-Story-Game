@@ -1,0 +1,43 @@
+body {
+  width: 900px;
+  margin: auto;
+  color: #ffffff;
+}
+
+a {
+  color: #cc00a0;
+}
+a:visited {
+  color: #cc0000;
+}
+
+
+.Header{
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
+
+.back{
+  color: #09008a;
+}
+.back:visited {
+  color: #09008a;
+}
+
+html{
+  background-image: url("images/leather.png");
+  background-repeat: no-repeat;
+  background-size: 200%;
+  background-color: #000000;
+}
+
+.list {
+  list-style-image: url('images/Bible-Icon.png');
+  
+}
